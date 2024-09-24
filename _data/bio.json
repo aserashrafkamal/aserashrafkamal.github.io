@@ -1,74 +1,70 @@
-"name": "Aser Ahmed",
-		"label": "Student",
-		"picture": "https://github.com/aserashrafkamal.png",
-		"email": "aserashrafkamal@gmail.com",
-		"phone": "585-503-8857",
-		"website": "https://aserashrafkamal.github.io",
-		"summary": "Hi. My name is Aser Ahmed, and I'm an aspiring software engineer. I started my learning process in November 2023, and I am continuosly working on honin my skilset and expanding my knowledge base",
-		"location": {
-			"address": "201 Griffith St, Apt 2",
-			"postalCode": "14607",
-			"city": "Rochester",
-			"countryCode": "USA",
-			"region": "New York"
-		},
-		"profiles": [{
-				"network": "github",
-				"username": "aserashrafkamal",
-				"url": "http://github.com/aserashrafkamal"
-			},
-			{
-				"network": "linkedin",
-				"username": "aserahmed",
-				"url": "http://linkedin.com/in/aser-ahmed-3808272"
-			},
-			{
-				"network": "twitter",
-				"username": "aserashrafkamal",
-				"url": "https://x.com/aserashrafkamal?s=21&t=ieP-fh6pZiUrQKC2EaZyGA"
-			},
-			{
-				"network": "instagram",
-				"username": "aserashrafkamal",
-				"url": "https://www.instagram.com/aserashrafkamal?igsh=NXkxMmRkMTRwaWhy&utm_source=qr"
-			}
-		]
+{
+	"name": "Aser Ahmed",
+	"label": "Student",
+	"picture": "https://github.com/aserashrafkamal.png",
+	"email": "aserashrafkamal@gmail.com",
+	"phone": "585-503-8857",
+	"website": "https://aserashrafkamal.github.io",
+	"summary": "Hi. My name is Aser Ahmed, and I'm an aspiring software engineer. I started my learning process in November 2023, and I am continuously working on honing my skillset and expanding my knowledge base.",
+	"location": {
+		"address": "201 Griffith St, Apt 2",
+		"postalCode": "14607",
+		"city": "Rochester",
+		"countryCode": "USA",
+		"region": "New York"
 	},
-	"interests": [{
-			"name": "Music"
+	"profiles": [
+		{
+			"network": "github",
+			"username": "aserashrafkamal",
+			"url": "http://github.com/aserashrafkamal"
 		},
 		{
-			"name": "Soccer (Football)"
+			"network": "linkedin",
+			"username": "aserahmed",
+			"url": "http://linkedin.com/in/aser-ahmed-3808272"
 		},
 		{
-			"name": "Nuclear Physics"
+			"network": "twitter",
+			"username": "aserashrafkamal",
+			"url": "https://x.com/aserashrafkamal?s=21&t=ieP-fh6pZiUrQKC2EaZyGA"
 		},
 		{
-			"name": "Videogames"
-		},
-		{
-			"name": "Reading"
+			"network": "instagram",
+			"username": "aserashrafkamal",
+			"url": "https://www.instagram.com/aserashrafkamal?igsh=NXkxMmRkMTRwaWhy&utm_source=qr"
 		}
 	],
-	"skills": [{
+	"interests": [
+		{"name": "Music"},
+		{"name": "Soccer (Football)"},
+		{"name": "Nuclear Physics"},
+		{"name": "Videogames"},
+		{"name": "Reading"}
+	],
+	"skills": [
+		{
 			"name": "Languages and Frameworks",
-			"keywords": ["Python", "C++", "Java", "Javascript", "Node.js", "React.js"]
+			"keywords": ["Python", "C++", "Java", "JavaScript", "Node.js", "React.js"]
 		},
 		{
 			"name": "Toolsets/OS",
 			"keywords": ["WindowsOS", "Ubuntu", "Git/GitHub"]
 		}
 	],
-	"education": [{
-		"institution": "University Of Rochester",
-		"area": "Biology" ("Spring", "2020")
-		",
-		"studyType": "B.S.",
-		"startDate": "2016-08-28",
-		"endDate": "2020-05-21",
-		"courses": []
-	}],
-	"work": [{
+	"education": [
+		{
+			"institution": "University Of Rochester",
+			"area": "Biology",
+			"studyType": "B.S.",
+			"startDate": "2016-08-28",
+			"endDate": "2020-05-21",
+			"courses": [],
+			"graduationDate": "Spring 2020"
+		}
+	],
+	"work": [
+		{
 			"company": "U of R Labs",
 			"position": "Lab Technician",
 			"website": "",
@@ -79,16 +75,17 @@
 				"Made sure labs were in full working order",
 				"Fixed microscopes and titer machines"
 			]
-		},
-	}
-],
-"volunteer": [{
-	"organization": "Hearthside Cats",
-	"website": "",
-	"position": "Assistant director",
-	"startDate": "2018-01-01",
-	"endDate": "2019-06-30",
-	"summary": "Helped oversee day-to-day operations"
-
-}, ],
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Hearthside Cats",
+			"website": "",
+			"position": "Assistant director",
+			"startDate": "2018-01-01",
+			"endDate": "2019-06-30",
+			"summary": "Helped oversee day-to-day operations"
+		}
+	]
 }
+
