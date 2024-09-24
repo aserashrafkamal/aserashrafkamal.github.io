@@ -1,92 +1,77 @@
 {
-  "basics": {
-    "name": "Aser Ahmed",
-    "label": "Student",
-    "picture": "https://github.com/aserashrafkamal.png",
-    "email": "aserashrafkamal@gmail.com",
-    "phone": "585-503-8857",
-    "website": "https://aserashrafkamal.github.io",
-    "summary": "Hi. My name is Aser Ahmed, and I'm an aspiring software engineer. I started my learning process in November 2023, and I am continuously working on honing my skillset and expanding my knowledge base.",
-    "location": {
-      "address": "201 Griffith St, Apt 2",
-      "postalCode": "14607",
-      "city": "Rochester",
-      "countryCode": "USA",
-      "region": "New York"
+    "basics": {
+      "name": "Aser Ahmed",
+      "label": "Student",
+      "picture": "https://github.com/aserashrafkamal.png",
+      "email": "aserashrafkamal@gmail.com",
+      "phone": "585-503-8857",
+      "website": "https://aserashrafkamal.github.io",
+      "summary": "Hi. My name is Aser Ahmed, and I'm an aspiring software engineer. I started my learning process in November 2023, and I am continuously working on honing my skillset and expanding my knowledge base.",
+      "location": { "address": "201 Griffith St, Apt 2", "postalCode": "14607", "city": "Rochester", "countryCode": "USA", "region": "New York" },
+      "profiles": [
+        { "network": "github", "username": "aserashrafkamal", "url": "http://github.com/aserashrafkamal" },
+        { "network": "linkedin", "username": "aserahmed", "url": "http://linkedin.com/in/aser-ahmed-3808272" },
+        { "network": "twitter", "username": "aserashrafkamal", "url": "https://x.com/aserashrafkamal?s=21&t=ieP-fh6pZiUrQKC2EaZyGA" },
+        { "network": "instagram", "username": "aserashrafkamal", "url": "https://www.instagram.com/aserashrafkamal?igsh=NXkxMmRkMTRwaWhy&utm_source=qr" }
+
+      ]
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "aserashrafkamal",
-        "url": "http://github.com/aserashrafkamal"
-      },
-      {
-        "network": "linkedin",
-        "username": "aserahmed",
-        "url": "http://linkedin.com/in/aser-ahmed-3808272"
-      },
-      {
-        "network": "twitter",
-        "username": "aserashrafkamal",
-        "url": "https://x.com/aserashrafkamal?s=21&t=ieP-fh6pZiUrQKC2EaZyGA"
-      },
-      {
-        "network": "instagram",
-        "username": "aserashrafkamal",
-        "url": "https://www.instagram.com/aserashrafkamal?igsh=NXkxMmRkMTRwaWhy&utm_source=qr"
-      }
-    ],
     "interests": [
-      {"name": "Music"},
-      {"name": "Soccer (Football)"},
-      {"name": "Nuclear Physics"},
-      {"name": "Videogames"},
-      {"name": "Reading"}
+      { "name": "Software Engineering" },
+      { "name": "Soccer (Football" },
+      { "name": "Music" },
+      { "name": "Videogames" }
     ],
     "skills": [
       {
         "name": "Languages and Frameworks",
-        "keywords": ["Python", "C++", "Java", "JavaScript", "Node.js", "React.js"]
+        "keywords": [ "Javascript", "React", "Python", "C++" ]
       },
       {
         "name": "Toolsets/OS",
-        "keywords": ["WindowsOS", "Ubuntu", "Git/GitHub"]
+        "keywords": [ "WindowsOS", "Ubuntu", "Git/GitHub" ]
       }
     ],
     "education": [
       {
-        "institution": "University Of Rochester",
+        "institution": "State University of New Yor At Geneseo, Geneseo, NY",
         "area": "Biology",
-        "studyType": "B.S.",
-        "startDate": "2016-08-28",
-        "endDate": "2020-05-21",
-        "courses": [],
-        "graduationDate": "Spring 2020"
+        "studyType": "B.Sc",
+        "startDate": "2016",
+        "endDate": "2020",
+        "courses": [
+        ]
+      },
+      {
+        "institution": "University of Rochester, Rochester, NY",
+        "area": "Medicine",
+        "studyType": "M.D",
+        "startDate": "2020",
+        "endDate": "2024",
+        "courses": [
+        ]
       }
     ],
     "work": [
       {
-        "company": "U of R Labs",
-        "position": "Lab Technician",
-        "website": "",
-        "startDate": "2019-08-01",
-        "endDate": "2022-09-01",
-        "summary": "Helped maintain working lab equipment",
-        "highlights": [
-          "Made sure labs were in full working order",
-          "Fixed microscopes and titer machines"
-        ]
+        "company": "University of Rochester",
+        "position": "Teaching Assistant",
+        "website": "https://www.rochester.edu/",
+        "startDate": "2019",
+        "endDate": "2022",
+        "summary": "Conduct teaching and research in biomedical sciences",
       }
     ],
     "volunteer": [
       {
-        "organization": "Hearthside Cats",
-        "website": "",
-        "position": "Assistant director",
-        "startDate": "2018-01-01",
-        "endDate": "2019-06-30",
-        "summary": "Helped oversee day-to-day operations"
+        "organization": "Heartside Cats",
+        "website": "https://www.facebook.com/hearthsidecats/",
+        "position": "Assitant",
+        "startDate": "2018",
+        "endDate": "2020",
+        "summary": "Helped maintain operational capacity of the shelter"
       }
+    
     ],
     "references": [
       {
@@ -94,6 +79,5 @@
       }
     ]
   }
-}
 
 
